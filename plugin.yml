@@ -1,0 +1,11 @@
+name: Mine MenuUI
+version: TWICE
+main: mmui\Main
+api: 3.0.0
+softdepend:
+- FormAPI
+- EconomyAPI
+author: KRUNCH7SHooT
+commands:
+ mmui:
+  description: "Mine MenuUI"
